@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+}
+#display{
+    background-color: orange;
+    color: white;
+    font-size: 70px;
+    text-align: center;
+    margin-top: 200px;
+    border: none;
+    outline: none;
+    width: 1360px;
+}
